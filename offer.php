@@ -188,7 +188,7 @@
 <p>  info@dappwalletnode.online</p></br>
   <p>Copyright © 2021 All rights Reserved </p>
 </footer>
-<script type='text/javascript' src='js/jquery-3.6.0.min.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script type="text/javascript" src="js/script2.js"></script>
 </body>
 </html>
